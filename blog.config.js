@@ -1,9 +1,9 @@
 const BLOG = {
   title: '竹本一世',
   author: '竹本一世',
-  email: 'benedict.yu@hotmail.com',
-  link: 'https://jike.city/ben',
-  description: '关注工具、数据、人机交互和创作者经济。,
+  email: 'i@craigary.net',
+  link: 'https://nobelium.vercel.app',
+  description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -17,9 +17,9 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://jike.city/ben',
+  socialLink: 'https://twitter.com/craigaryhart',
   seo: {
-    keywords: ['竹本一世', '工具博客', '创作者经济博客'],
+    keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
