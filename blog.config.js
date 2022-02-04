@@ -1,10 +1,10 @@
 const BLOG = {
   title: '竹本一世',
   author: '竹本一世',
-  email: 'benedict.yu@hotmail.com,',
+  email: 'benedict.yu@hotmail.com',
   link: 'https://nobelium.vercel.app',
-  description: '关注工具、数据、人机交互和创作者经济。',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  description: '关注工具、数据、人机交互和创作者经济',
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
